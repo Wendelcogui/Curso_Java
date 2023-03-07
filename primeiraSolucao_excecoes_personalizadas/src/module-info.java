@@ -1,0 +1,2 @@
+module primeiraSolucao_excecoes_personalizadas {
+}
